@@ -1,6 +1,6 @@
 from flask import Blueprint, send_from_directory, render_template, flash, current_app
 
-from tasks import project1, project2
+from app.tasks import project1, project2
 
 # Initialize the Blueprint
 endpoints = Blueprint('endpoints', __name__)

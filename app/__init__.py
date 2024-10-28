@@ -1,7 +1,7 @@
 from flask import Flask
 
 from config import Config
-from endpoints import endpoints
+from app.endpoints import endpoints
 
 # Initialize the Flask app
 app = Flask(__name__)
