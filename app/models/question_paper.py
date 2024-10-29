@@ -1,6 +1,4 @@
-from sqlalchemy import Column, SmallInteger, String, JSON
-from sqlalchemy.ext.mutable import MutableDict
-
+from sqlalchemy import Column, SmallInteger, String
 from app import db
 
 class QuestionPaper(db.Model):
@@ -9,4 +7,4 @@ class QuestionPaper(db.Model):
     subject = Column(String(256), nullable=False)
     chapter = Column(String(256), default=None)
     question = Column(String(500), nullable=False)
-    options = Column(MutableDict.as_mutable(JSON), nullable=True)
+    options = Column(String(500), nullable=True)

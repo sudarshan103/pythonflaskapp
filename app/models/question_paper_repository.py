@@ -24,7 +24,7 @@ class QuestionPaperRepo:
             )
             new_records.append(new_record)
 
-        db.session.bulk_save_objects(new_records)  # Efficiently save all records
+        db.session.bulk_save_objects(new_records)
         db.session.commit()
         return new_records
 
