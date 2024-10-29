@@ -48,7 +48,7 @@ def extract_text_from_pdf(pdf_path, page_number):
             text = page.extract_text()
             if text:
                 question_text = ""
-                questions = re.findall(app.config['CONTENT_FORMAT'], text, re.MULTILINE)
+                questions = re.findall(app.config['QUESTION_FORMAT'], text, re.MULTILINE)
                 for question in questions:
                     clean_question = re.sub(r"\n", " ", question)
                     question_text += f"{clean_question}\n"
