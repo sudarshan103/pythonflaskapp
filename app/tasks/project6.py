@@ -3,7 +3,8 @@ import sys
 
 from app import app
 from app.models.question_paper_repository import QuestionPaperRepo
-from app.utils.utils import contains_sql_injection_chars, check_database_status
+from app.utils.app_utils import check_database_status
+from app.utils.utils import contains_sql_injection_chars
 
 
 def print_questions(chapter_name:str):

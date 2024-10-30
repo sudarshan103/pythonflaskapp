@@ -1,12 +1,13 @@
 import glob
 import os
 import re
-import sys
+
 import PyPDF2
 
 from app import app
 from app.models.question_paper_repository import QuestionPaperRepo
-from app.utils.utils import check_database_status
+from app.utils.app_utils import check_database_status
+
 
 def write_db():
     folder_three = "content/Three"
@@ -41,7 +42,7 @@ def pdf_to_db(pdf_path):
                         answer_text = ""
                         clean_question = re.sub(r"\n", " ", question)
                         escaped_ques = re.escape(question)
-                        answers = re.findall(rf"{escaped_ques}{app.config['ANSWER_FORMAT']}", text, re.DOTALL)
+                        answers = re.findall(rf"{escaped_ques}([\s\S]*?)(?=\s*Answer:)", text, re.DOTALL)
                         for answer in answers:
                             answer_text += re.sub(r"\n", " ", answer)
 

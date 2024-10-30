@@ -9,6 +9,5 @@ class Config:
     OUTPUT_FOLDER = 'content'
     QUESTION_FORMAT = r"\d+\.\s(?:.*\n)*?.*?\?"
     CHAPTER_TITLE_FORMAT = r"(Chapter.*?)(?=\s*1\.)"
-    ANSWER_FORMAT = "([\s\S]*?)(?=\s*Answer:)"
     SQLALCHEMY_DATABASE_URI= os.environ.get('SQLALCHEMY_DATABASE_URI')
     SQLALCHEMY_TRACK_MODIFICATIONS = False
