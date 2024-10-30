@@ -1,0 +1,300 @@
+Content from https://techcrunch.com/2024/10/29/ashton-kutchers-sound-ventures-backs-fei-fei-lis-world-labs-in-continued-ai-push/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/28/what-are-ai-world-models-and-why-do-they-matter/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/24/smashing-an-ai-powered-app-for-online-readers-launches-to-the-public/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/24/after-selling-anchor-to-spotify-co-founders-reunite-to-build-ai-educational-startup-oboe/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/17/elon-musks-x-is-changing-its-privacy-policy-to-allow-third-parties-to-train-ai-on-your-posts/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/13/data-center-tech-is-exploding-but-adoption-wont-be-easy-for-startups/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/11/researchers-question-ais-reasoning-ability-as-models-stumble-on-math-problems-with-trivial-changes/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/10/babbel-co-founder-markus-witte-will-once-again-run-the-company-replacing-ceo-arne-schepker/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/08/adobe-proposes-a-way-to-protect-artists-from-ai-ripoffs/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/08/driver-launches-an-ai-powered-platform-for-creating-technical-documentation/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/03/google-flexes-its-edge-in-india-in-ai-showdown/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/10/02/permanent-wants-to-permanently-change-where-enterprise-buyers-get-their-food/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/09/20/microsoft-taps-three-mile-island-nuclear-plant-to-power-ai/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/09/02/sparklabs-closes-50m-fund-to-back-ai-startups/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/08/31/grammy-ceo-says-music-industry-also-has-ai-concerns/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+
+Content from https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+		<script type="text/javascript">
+		document.addEventListener("cjsUserConsented",d=>{window.tc=window.tc||{},window.tc.didomi=window.tc.didomi||d.detail});
+	</script>
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='preload' href='https://s.yimg.com/aaq/prebid/prebid-2.0.js' a...
+
+
+

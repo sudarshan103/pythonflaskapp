@@ -4,6 +4,7 @@ import re
 import sys
 
 from app import app
+from app.constants import output_file
 from app.utils.utils import validate_page_input, extract_text_from_pdf
 
 
@@ -15,7 +16,6 @@ def write_file(page_number:int):
     else:
         pdf_files = []
         pdf_files.extend(glob.glob(os.path.join(folder_three, '**', '*.pdf'), recursive=True))
-        txt_filename = 'output.txt'
         if len(pdf_files) > 0:
             if validate_page_input(pdf_files[0],page_number):
                 pdf_text = extract_text_from_pdf(pdf_files[0],page_number)
@@ -24,7 +24,7 @@ def write_file(page_number:int):
                 for question in questions:
                     clean_question = re.sub(r"\n", " ", question)
                     question_text += f"{clean_question}\n"
-                txt_file_path = os.path.join(folder_three, txt_filename)
+                txt_file_path = os.path.join(folder_three, output_file)
                 with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
                     txt_file.write(question_text)
                 print("Written page into txt")

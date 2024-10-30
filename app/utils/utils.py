@@ -2,23 +2,18 @@ import os
 import re
 
 import PyPDF2
-from sqlalchemy import text, inspect
-from sqlalchemy.exc import OperationalError
 
-from app.constants import sql_injection_pattern
+from app.constants import sql_injection_pattern, output_file
 
-def print_outcome(outcome:str):
-    txt_filename = 'debug_outcome.txt'
-    txt_file_path = os.path.join("app", txt_filename)
-    if not os.path.exists(txt_file_path):
-        os.makedirs(txt_file_path)
+
+def print_outcome(outcome:str, file_name=output_file):
+    txt_file_path = os.path.join("app", file_name)
     with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
         txt_file.write(outcome)
-    print("Written into debug_outcome")
+    print(f"Written into {file_name}")
 
 def contains_sql_injection_chars(input_text: str) -> bool:
     return bool(re.search(sql_injection_pattern, input_text))
-
 
 def extract_text_from_pdf(pdf_path, page_number=None):
     pdf_text = ""
