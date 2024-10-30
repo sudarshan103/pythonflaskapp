@@ -1,7 +1,9 @@
 import glob
 import os
 import sys
-import PyPDF2
+
+from app.tasks.project4 import validate_page_input
+from app.utils.utils import extract_text_from_pdf
 
 
 def write_file(page_number:int):
@@ -22,35 +24,6 @@ def write_file(page_number:int):
                 print("Written page into txt")
         else:
             print("Pdf file is not present in the folder")
-
-def validate_page_input(pdf_path, page_number):
-    try:
-        with open(pdf_path, 'rb') as pdf_file:
-            pdf_reader = PyPDF2.PdfReader(pdf_file)
-            if page_number < 0 or page_number >= len(pdf_reader.pages):
-                print(f"Page {page_number+1} does not exist.")
-                return False
-    except FileNotFoundError:
-        print("The PDF file was not found.")
-    except Exception as e:
-        print("An error occurred:", e)
-    return True
-
-def extract_text_from_pdf(pdf_path, page_number):
-    try:
-        with open(pdf_path, 'rb') as pdf_file:
-            pdf_reader = PyPDF2.PdfReader(pdf_file)
-            page = pdf_reader.pages[page_number]
-            text = page.extract_text()
-            if text:
-                return text
-            else:
-                print("No text found on the specified page.")
-                return None
-    except FileNotFoundError:
-        print("The PDF file was not found.")
-    except Exception as e:
-        print("An error occurred:", e)
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:

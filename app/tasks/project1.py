@@ -1,11 +1,12 @@
 import os
 
-from PyPDF2 import PdfReader
 from flask import render_template, request, redirect, url_for, flash, current_app
+
+from app.utils.utils import extract_text_from_pdf
 
 # Allowed file extensions
 ALLOWED_EXTENSIONS = {'pdf'}
-
+txt_filename = 'output.txt'
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
@@ -34,8 +35,6 @@ def upload_file():
             flash(f'File "{filename}" successfully uploaded!')
             pdf_text = extract_text_from_pdf(file_path)
 
-            # Write the extracted text to a .txt file
-            txt_filename = 'output.txt'
             txt_file_path = os.path.join(current_app.config['OUTPUT_FOLDER'], txt_filename)
             with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
                 txt_file.write(pdf_text)
@@ -43,11 +42,3 @@ def upload_file():
             return redirect(url_for('uploaded_file', filename=txt_filename))
 
     return render_template('index.html')
-
-def extract_text_from_pdf(pdf_path):
-    pdf_text = ""
-    with open(pdf_path, 'rb') as file:
-        reader = PdfReader(file)
-        for page_num in range(len(reader.pages)):
-            pdf_text += reader.pages[page_num].extract_text()
-    return pdf_text

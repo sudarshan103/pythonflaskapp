@@ -33,6 +33,13 @@ class QuestionPaperRepo:
         return QuestionPaper.query.get(record_id)
 
     @staticmethod
+    def get_by_chapter(chapter_name):
+        return (db.session.query(QuestionPaper)
+                .filter_by(chapter=chapter_name)
+                .all()
+                )
+
+    @staticmethod
     def update(record_id, **kwargs):
         record = QuestionPaper.query.get(record_id)
         if record:
