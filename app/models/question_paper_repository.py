@@ -20,13 +20,19 @@ class QuestionPaperRepo:
                 subject=paper['subject'],
                 chapter=paper.get('chapter'),
                 question=paper['question'],
-                options=paper.get('options')
+                options=paper.get('options'),
+                is_multi_choice=paper['is_multi_choice']
             )
             new_records.append(new_record)
 
         db.session.bulk_save_objects(new_records)
         db.session.commit()
         return new_records
+
+    @staticmethod
+    def bulk_create_questions(question_papers: List[QuestionPaper]) :
+        db.session.bulk_save_objects(question_papers)
+        db.session.commit()
 
     @staticmethod
     def get(record_id):

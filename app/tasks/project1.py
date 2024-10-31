@@ -39,6 +39,6 @@ def upload_file():
             with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
                 txt_file.write(pdf_text)
             flash(f'PDF file "{filename}" processed and saved as "{output_file}"!')
-            return redirect(url_for('uploaded_file', filename=output_file))
+            return redirect(url_for('endpoints.uploaded_file', filename=output_file))
 
     return render_template('index.html')

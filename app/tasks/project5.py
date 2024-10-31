@@ -50,7 +50,8 @@ def pdf_to_db(pdf_path):
                             paper.append(dict(subject="Chemistry",
                                               chapter=last_known_chapter,
                                               question = clean_question,
-                                              options = answer_text
+                                              options = answer_text,
+                                              is_multi_choice = False
                                               )
                                          )
 

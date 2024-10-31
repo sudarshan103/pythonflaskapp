@@ -21,7 +21,7 @@ def write_file(page_number:int):
                 txt_file_path = os.path.join(folder_three, output_file)
                 with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
                     txt_file.write(pdf_text)
-                print("Written page into txt")
+                print(f"Written page into {folder_three} txt file")
         else:
             print("Pdf file is not present in the folder")
 
